@@ -1,6 +1,6 @@
 # Java Discord Challenge #2: Bootiful Calculator
 
-Challenge from the folks at https://javadiscord.net/ - see https://github.com/Shaunwild97/CodingChallenges/tree/master/bootiful-calculator
+Challenge from the folks at the Java Discord - see https://github.com/Shaunwild97/CodingChallenges/tree/master/bootiful-calculator
 
 by Flo
 
