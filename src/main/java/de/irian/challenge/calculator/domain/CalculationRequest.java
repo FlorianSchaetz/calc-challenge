@@ -16,6 +16,7 @@ public class CalculationRequest
    @NotNull
    @NotEmpty
    @NoNullElements
+   // Please note: This leads to a loss of precision since jackson will parse it to double, should either be BigDecimal from the start or a better json solution (subtypes are a good idea)
    private final List<Number> values;
    @NotNull
    private final OperationType operation;
